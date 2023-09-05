@@ -1,2 +1,4 @@
 # from-scratch
-Implementing deep RL algorithms from scratch (e.g. PPO) 
+This repo is dedicated to practicing, understanding how to implement deep RL algorithms from scratch using Pytorch. 
+
+
